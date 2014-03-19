@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #---------------------------------------  
-#   Name：APPstat  
+#   Name：AppDownloadData
 #   VER：0.1  
 #   Author：FryeLee  
 #---------------------------------------

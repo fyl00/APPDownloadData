@@ -1,13 +1,26 @@
-APPDownloadData
+AppDownloadData
 ===============
 
-###功能
-查询APP在Andriod平台的下载次数
+###Function
+To collect the app's download data on the mainstream App Store in china
 
-###范围
+###Stream
 
-- 豌豆荚
-- 应用宝
-- 360手机助手
-- 91手机助手
-- 百度手机助手
+- [Wandoujia][1]
+- [Yingyongbao][2]
+- [360Mobile Helper][3]
+- [91MobileHelper][4]
+- [BaiduMobileHelper][5]
+
+###Need
+
+- [Python 2.7.5][6]
+- [Beautifulsoup 4][7]
+
+[1]:[http://www.wandoujia.com/apps]
+[2]:[http://android.myapp.com/]
+[3]:[http://zhushou.360.cn/]
+[4]:[http://zs.91.com/]
+[5]:[http://as.baidu.com/]
+[6]:[https://www.python.org/]
+[7]:[http://www.crummy.com/software/BeautifulSoup/]
